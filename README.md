@@ -1,76 +1,97 @@
-<h1 align="center">Hi, I'm Houssam 👋</h1>
-<h3 align="center">Software Engineering Student | Backend & Full-Stack Developer</h3>
+# 👋 Hi, I'm Houssam  
+
+### 💻 Software Engineering Student | Backend & Full-Stack Developer  
 
 <p align="center">
-  <a href="https://houssamsalek.me/portfolio/">Portfolio</a>
-  •
-  <a href="https://linkedin.com/in/houssam-salek">LinkedIn</a>
-  •
-  <a href="mailto:houssam.salek@emsi-edu.ma">Email</a>
+  <a href="https://houssamsalek.me/portfolio/">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/houssam-salek">💼 LinkedIn</a> •
+  <a href="mailto:houssam.salek@emsi-edu.ma">📧 Email</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-Web%20Apps-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-API%20%26%20Web-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-Database-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-Frontend-09c?style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me  
 
-I’m a **3rd-year Software Engineering student at EMSI Tanger** with a strong interest in **backend** and **full-stack development**.
+🎓 I’m a **3rd-year Software Engineering student at EMSI Tanger**  
+💡 Passionate about **backend development** and building **scalable full-stack applications**  
 
-I enjoy building secure and practical applications, especially systems that involve:
+I enjoy creating secure, efficient, and real-world systems, especially:  
 
-- authentication and authorization
-- dashboards and admin panels
-- database design
-- role-based access
-- clean backend logic
+- 🔗 RESTful API design & development  
+- 🔐 Authentication & authorization (Sanctum, token-based systems)  
+- 📊 Dashboards & admin panels  
+- 🗄️ Database design & optimization  
+- 🧩 Role-based access control  
+- 🏗️ Clean & scalable backend architecture  
 
-My goal is to keep growing through real projects and internship opportunities.
-
----
-
-## Tech Stack
-
-**Languages:** PHP, JavaScript, C++, SQL, HTML, CSS  
-**Frameworks & Tools:** Laravel, React, Vite, Tailwind CSS, MySQL, Git, GitHub, Linux, Bash, VS Code
+🎯 **Goal:** Continuously improve through real-world projects and secure a backend/full-stack internship  
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack  
 
-### StageLink
-Secure multi-school internship tracking and application platform with role-based access, verification workflows, and document management.
+**💻 Languages**  
+PHP • JavaScript • Java • C++ • SQL • HTML • CSS  
 
-### Portfolio
-Personal portfolio built with React and Vite to present my projects, skills, and developer profile.
-
-### Library Management System
-Laravel/MySQL web application with authentication, admin dashboard, and CRUD features.
-
-### Aim Trainer
-Interactive browser-based game built with HTML, CSS, and JavaScript.
-
-### C++ Media Library
-Console-based multimedia management system using OOP, inheritance, and file persistence.
+**⚙️ Frameworks & Tools**  
+Laravel • React • Vite • Tailwind CSS • MySQL • Git • GitHub • Linux • Bash • VS Code  
 
 ---
 
-## Current Focus
+## 🔧 Backend & API Skills  
 
-- Learning more about **Laravel** and API development
-- Strengthening backend architecture skills
-- Building better full-stack projects
-- Preparing for **backend / full-stack internship opportunities**
+- RESTful API design  
+- Laravel API development (Sanctum authentication)  
+- CRUD operations & resource controllers  
+- Request validation & error handling  
+- Database relationships & migrations  
+- Secure authentication workflows  
 
 ---
 
-## Contact
+## 📌 Featured Projects  
 
-- **Portfolio:** https://houssamsalek.me/portfolio/
-- **LinkedIn:** https://linkedin.com/in/houssam-salek
-- **Email:** houssam.salek@emsi-edu.ma
+### 🔹 StageLink  
+🔐 Multi-school internship platform with role-based access, API-driven architecture, verification workflows, and document management  
+
+### 🔹 Portfolio  
+🌐 Personal website built with React & Vite to showcase projects and skills  
+
+### 🔹 Library Management System  
+📚 Laravel & MySQL web app with authentication, admin dashboard, and full CRUD functionality  
+
+### 🔹 Aim Trainer  
+🎯 Interactive browser game using HTML, CSS, and JavaScript  
+
+### 🔹 C++ Media Library  
+🎵 Console-based multimedia system using OOP, inheritance, and file persistence  
+
+---
+
+## 🎯 Current Focus  
+
+- 🚀 Advanced **Laravel API development**  
+- 🏗️ Improving backend architecture & scalability  
+- ☕ Strengthening **Java fundamentals**  
+- 🌐 Building production-ready full-stack applications  
+- 💼 Preparing for **backend / full-stack internships**  
+
+---
+
+## 📫 Contact Me  
+
+- 🌐 Portfolio: https://houssamsalek.me/portfolio/  
+- 💼 LinkedIn: https://linkedin.com/in/houssam-salek  
+- 📧 Email: houssam.salek@emsi-edu.ma  
+
+---
+
+✨ *Always learning, always building.*

@@ -66,31 +66,7 @@ I focus on building secure, scalable, and practical applications, with expertise
 - Secure authentication workflows  
 - Monorepo structure and service-oriented development  
 
----
 
-## Featured Projects
-
-**Docflow** | *Spring Boot, Angular, Docker*  
-Medical practice management project utilizing a containerized infrastructure. Features include comprehensive patient backend creation, update functionality, and a seamless frontend integration.  
-
-**StageLink** | *Laravel, MySQL*  
-Multi-school internship platform with role-based access, API-driven architecture, verification workflows, and document management.  
-> [Live Demo / Code](#) <!-- Update with your actual repo/live link! -->
-
-**Portfolio** | *React, Vite*  
-Personal website built with React and Vite to present projects and skills.  
-> [Live Demo](https://houssamsalek.me/portfolio/)
-
-**Library Management System** | *Laravel, MySQL*  
-Web application featuring secure authentication, an admin dashboard, and full CRUD functionality.  
-
-**Aim Trainer** | *HTML, CSS, JavaScript*  
-Interactive browser-based game focusing on DOM manipulation and event handling.  
-
-**C++ Media Library** | *C++*  
-Console-based multimedia management system using OOP principles, inheritance, and file persistence.  
-
----
 
 ## Current Focus
 

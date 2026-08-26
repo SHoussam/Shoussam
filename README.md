@@ -75,13 +75,6 @@ I am a **Software Engineering student at EMSI Tanger** specializing in backend d
 
 ---
 
-## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Houssam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
----
-
-<p align="center">Always learning, always building, and forever shipping clean code. 🚀💻</p>
+<p align="center">Always learning, always building, and forever debugging.</p>

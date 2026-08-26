@@ -68,7 +68,7 @@ I am a **Software Engineering student at EMSI Tanger** specializing in backend d
 
 ## 🌟 Featured Projects
 
-- 🛠️ **<a href="[https://houssamsalek.me/portfolio/](https://github.com/SHoussam/GitMentor.git)">GitMentor AI </a>(`gitr`):** Open-source CLI tool for repository health checks, prompt generation, and developer workflow automation.
+- 🛠️ <a href="[https://houssamsalek.me/portfolio/](https://github.com/SHoussam/GitMentor.git)">**GitMentor AI (`gitr`):**</a> Open-source CLI tool for repository health checks, prompt generation, and developer workflow automation.
 - 🎓 **StageLink:** Multi-school internship management platform featuring role-based access control, REST APIs, and automated CV skill extraction.
 - ⚡ **DeskLight:** Full-stack student productivity suite with task tracking, mood journaling, and budget management built with FastAPI & SQLModel.
 - 🛋️ **Interactive Ecommerce Configurator:** Modern 2D SVG visualizer built using React, TypeScript, and dynamic pricing formulas.

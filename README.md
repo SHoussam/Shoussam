@@ -1,80 +1,124 @@
 <h1 align="center">Hi, I'm Houssam Salek 👋</h1>
 
-<h3 align="center">Software Engineering Student | Backend & Full-Stack Developer</h3>
-
 <p align="center">
-  <a href="https://houssamsalek.me/portfolio/">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/houssam-salek">💼 LinkedIn</a> •
-  <a href="mailto:houssam.salek@emsi-edu.ma">✉️ Email</a>
+  <strong>Software Engineering Student · Backend & Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://houssamsalek.me/portfolio/">Portfolio</a> •
+  <a href="https://linkedin.com/in/houssam-salek">LinkedIn</a> •
+  <a href="mailto:houssam.salek@emsi-edu.ma">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a **Software Engineering student at EMSI Tanger** specializing in backend development, system architecture, and modern full-stack web applications. 
+I'm a **3rd-year Software Engineering student at EMSI Tanger** focused on backend development, system architecture, and AI-assisted software engineering.
 
-- 🔭 **Focus:** Building robust RESTful APIs, scalable microservices, and AI-assisted developer tooling.
-- ⚡ **Core Strengths:** Clean backend architecture, database design & optimization, containerized environments, and proactive team workflows.
-- 🎯 **Goal:** Engineering production-ready software with clean code, strong system security, and intuitive UX.
+I enjoy building systems where the interesting part is not only the UI, but also the architecture behind it: APIs, authentication, databases, automation, developer tooling, and multi-agent systems.
 
----
+### What I'm currently interested in
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=FastAPI&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Databases, Tools & Environment
-![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+- Backend engineering and API architecture
+- AI-powered developer tools
+- Multi-agent software engineering systems
+- System design and scalable applications
+- Security, authentication, and clean architecture
 
 ---
 
-## 💻 Systems & Engineering Focus
+## Featured Projects
 
-- **API Architecture:** Designing RESTful services, strict request validations, and scalable microservices.
-- **Security & Auth:** Implementing OAuth2, Keycloak multi-tenancy, and token-based authentication workflows (Sanctum/JWT).
-- **Data Modeling:** Schema design, complex relational mapping, and ORM query optimization (SQLModel, SQLAlchemy).
-- **DevOps & Workflow:** Containerizing local/production services with Docker and leveraging modern AI-assisted development tools.
+### 🧠 MASA — Multi-Agent Software Engineering System
 
----
+An experimental **multi-agent software engineering platform** where a Manager Agent analyzes a project, plans the work, delegates tasks to specialized agents, reviews results, runs tests, and coordinates corrections.
 
-## 🌟 Featured Projects
+**Focus:** AI agents · orchestration · software engineering automation · developer tooling
 
-- 🛠️ <a href="[https://houssamsalek.me/portfolio/](https://github.com/SHoussam/GitMentor.git)">**GitMentor AI (`gitr`):**</a> Open-source CLI tool for repository health checks, prompt generation, and developer workflow automation.
-- 🎓 **StageLink:** Multi-school internship management platform featuring role-based access control, REST APIs, and automated CV skill extraction.
-- ⚡ **DeskLight:** Full-stack student productivity suite with task tracking, mood journaling, and budget management built with FastAPI & SQLModel.
-- 🛋️ **Interactive Ecommerce Configurator:** Modern 2D SVG visualizer built using React, TypeScript, and dynamic pricing formulas.
+[View MASA →](https://github.com/SHoussam/MASA)
 
 ---
 
+### 🛠️ GitMentor
 
+An open-source CLI tool designed to help developers understand and improve repositories through automated repository analysis, health checks, prompt generation, and AI-assisted workflows.
 
-<p align="center">Always learning, always building, and forever debugging.</p>
+**Focus:** Python · CLI tooling · Git · AI-assisted development
+
+[View GitMentor →](https://github.com/SHoussam/GitMentor)
+
+---
+
+### 🎓 StageLink
+
+A multi-school internship management platform designed to connect students, companies, and schools while providing role-based access control, REST APIs, and automated CV skill extraction.
+
+**Focus:** API architecture · RBAC · database design · full-stack development
+
+---
+
+### 🛋️ Interactive Ecommerce Configurator
+
+A modern furniture configurator with an interactive **2D SVG visualizer**, product customization, dimensions, colors, and dynamic pricing.
+
+**Focus:** React · TypeScript · SVG · interactive UI
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Data & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Engineering Focus
+
+```text
+Backend
+├── REST APIs
+├── Authentication & Authorization
+├── Database Design
+├── ORM & Query Optimization
+└── Service Architecture
+
+AI & Developer Tools
+├── AI-assisted development
+├── Multi-agent systems
+├── Agent orchestration
+├── CLI tooling
+└── Automated workflows
+
+Engineering Practices
+├── Clean Architecture
+├── Testing & QA
+├── Docker
+├── Git workflows
+└── Security

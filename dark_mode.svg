@@ -50,7 +50,7 @@
     <text class="title" x="410" y="32" text-anchor="middle">SHoussam@github — zsh</text>
 
     <g class="line l1"><text x="36" y="88"><tspan class="prompt">➜</tspan><tspan class="path">  ~  </tspan><tspan class="cmd">whoami</tspan></text></g>
-    <g class="line l2"><text x="36" y="118"><tspan class="accent">Houssam SALEK</tspan><tspan class="out"> · Backend / Software Engineer</tspan><tspan class="punct">  (</tspan><tspan class="num" id="commit_data">687</tspan><tspan class="out"> commits · </tspan><tspan class="num" id="age_data">1y 11m</tspan><tspan class="punct">)</tspan></text></g>
+    <g class="line l2"><text x="36" y="118"><tspan class="accent">Houssam SALEK</tspan><tspan class="out"> · Backend / Software Engineer</tspan><tspan class="punct">  (</tspan><tspan class="num" id="commit_data">706</tspan><tspan class="out"> commits · </tspan><tspan class="num" id="age_data">1y 11m</tspan><tspan class="punct">)</tspan></text></g>
     <g class="line l3"><text x="36" y="146"><tspan class="sub">EMSI Tangier · Prev. Intern @ Norsys Afrique · Tangier, Morocco</tspan></text></g>
 
     <g class="line l4"><text x="36" y="184"><tspan class="prompt">➜</tspan><tspan class="path">  ~  </tspan><tspan class="cmd">cat skills.json</tspan></text></g>

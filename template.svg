@@ -51,16 +51,16 @@
 
     <g class="line l1"><text x="36" y="88"><tspan class="prompt">➜</tspan><tspan class="path">  ~  </tspan><tspan class="cmd">whoami</tspan></text></g>
     <g class="line l2"><text x="36" y="118"><tspan class="accent">Houssam SALEK</tspan><tspan class="out"> · Backend / Software Engineer</tspan><tspan class="punct">  (</tspan><tspan class="num" id="commit_data">{{commits}}</tspan><tspan class="out"> commits · </tspan><tspan class="num" id="age_data">{{years}}</tspan><tspan class="punct">)</tspan></text></g>
-    <g class="line l3"><text x="36" y="146"><tspan class="sub">EMSI Tangier · Prev. Intern @ Norsys Afrique · Tangier, Morocco</tspan></text></g>
+    <g class="line l3"><text x="36" y="146"><tspan class="sub">EMSI Tangier (4A IIR) · Prev. Intern @ Norsys Afrique · Stage PFA 2027</tspan></text></g>
 
     <g class="line l4"><text x="36" y="184"><tspan class="prompt">➜</tspan><tspan class="path">  ~  </tspan><tspan class="cmd">cat skills.json</tspan></text></g>
     <g class="line l5"><text y="214"><tspan class="punct" x="36">{</tspan></text></g>
     <g class="line l6"><text y="244"><tspan class="key" x="60">"backend"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Java 21","Spring Boot 3","FastAPI","Laravel"</tspan><tspan class="punct">],</tspan></text></g>
-    <g class="line l7"><text y="274"><tspan class="key" x="60">"security"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Keycloak","RBAC","JWT","Sanctum","Multi-Tenant"</tspan><tspan class="punct">],</tspan></text></g>
+    <g class="line l7"><text y="274"><tspan class="key" x="60">"security"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Keycloak","RBAC","JWT","2FA TOTP","Multi-Tenant"</tspan><tspan class="punct">],</tspan></text></g>
     <g class="line l8"><text y="304"><tspan class="key" x="60">"frontend"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Angular 20","React 19","TypeScript","Tailwind"</tspan><tspan class="punct">],</tspan></text></g>
-    <g class="line l9"><text y="334"><tspan class="key" x="60">"databases"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"PostgreSQL","MySQL","SQLite","SQLModel"</tspan><tspan class="punct">],</tspan></text></g>
+    <g class="line l9"><text y="334"><tspan class="key" x="60">"databases"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"PostgreSQL","MySQL","SQLite","SQLAlchemy"</tspan><tspan class="punct">],</tspan></text></g>
     <g class="line l10"><text y="364"><tspan class="key" x="60">"devops"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Docker","GitLab CI/CD","GitHub Actions","Linux"</tspan><tspan class="punct">],</tspan></text></g>
-    <g class="line l11"><text y="394"><tspan class="key" x="60">"ai_tools"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Multi-Agent","MCP","LLM Routing","Typer","uv"</tspan><tspan class="punct">]</tspan></text></g>
+    <g class="line l11"><text y="394"><tspan class="key" x="60">"ai_tools"</tspan><tspan class="punct" x="176">:</tspan><tspan class="punct" x="196">[</tspan><tspan class="str">"Local LLMs","JSON Schema","MCP","Typer","uv"</tspan><tspan class="punct">]</tspan></text></g>
     <g class="line l12"><text y="424"><tspan class="punct" x="36">}</tspan></text></g>
 
     <g class="line l13"><text x="36" y="460"><tspan class="prompt">➜</tspan><tspan class="path">  ~  </tspan></text></g>
